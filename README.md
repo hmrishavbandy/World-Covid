@@ -1,2 +1,2 @@
 # World-Covid
-A temporary repo with COVID19 plots
+A basic repo with COVID19 plots

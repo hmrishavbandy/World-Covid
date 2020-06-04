@@ -1,3 +1,2 @@
 set -ex
 pip install -r requirements.txt
-jupyter nbconvert --to notebook --execute Main_me.ipynb

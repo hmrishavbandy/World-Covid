@@ -1,0 +1,8 @@
+jupyterlab
+voila
+plotly
+plotly_express
+numpy
+json
+pandas
+ipywidgets

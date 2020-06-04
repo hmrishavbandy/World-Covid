@@ -1,2 +1,3 @@
 set -ex
+rm -r .*
 pip install -r requirements.txt

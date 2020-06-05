@@ -2,3 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - plotly
+  - plotly_express
+  - pandas
+  - ipywidgets

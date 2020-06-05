@@ -1,6 +1,0 @@
-jupyterlab
-voila
-plotly
-plotly_express
-pandas
-ipywidgets
